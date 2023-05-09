@@ -15,7 +15,7 @@
   <p align="center">
     一个适用于ZeppOS的准确的计时器
     <br />
-        <a href="https://github.com/XiaomaiTX/zeppos-fx/blob/master/README.md"><strong>English Document »</strong></a>
+        <a href="https://github.com/XiaomaiTX/zeppos-timer/blob/master/README.md"><strong>English Document »</strong></a>
     <br />
     <p>我在写文档的时候优先用的英语哦~建议优先读完英文版 当然，中文版更方便大部分大陆开发者使用习惯</p>
     <a href="https://github.com/XiaomaiTX/zeppos-timer/releases">下载稳定版</a>
