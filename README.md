@@ -15,7 +15,7 @@
   <p align="center">
     An accurate timer for ZeppOS. 
     <br />
-    <a href="https://github.com/XiaomaiTX/zeppos-timer/blob/master/README_zh-CN.md"><strong>中文文档（在写了别催了） »</strong></a>
+    <a href="https://github.com/XiaomaiTX/zeppos-timer/blob/master/README_zh-CN.md"><strong>中文文档 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/XiaomaiTX/zeppos-timer/releases">Download</a>
